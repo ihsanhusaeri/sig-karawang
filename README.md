@@ -21,3 +21,8 @@ Install the [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-
 
 </div>
 
+## How to run
+
+Open dist folder, then run sigkarawang.bat
+
+
